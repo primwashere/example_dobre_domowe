@@ -18,3 +18,13 @@ r=4
 obwod=2*3.14*r
 pole=3.14*r**2
 print("Obwod kola wynosi "+str(obwod)+", a pole "+str(pole)+".")
+
+#trapez
+a=3
+b=28
+c=20
+d=15
+h=12
+obwod=a+b+c+d
+pole=((a+b)*h)/2
+print("Obwod trapezu wynosi "+str(obwod)+", a pole "+str(pole)+".")
