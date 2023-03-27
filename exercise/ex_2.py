@@ -18,4 +18,3 @@ r=4
 obwod=2*3.14*r
 pole=3.14*r**2
 print("Obwod kola wynosi "+str(obwod)+", a pole "+str(pole)+".")
-
